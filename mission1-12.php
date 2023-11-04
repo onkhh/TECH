@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>mission1-12</title>
+    </head>
+    <body>
+        <?php
+        $str="Hello";
+        echo"$str<br>";
+        $str="World";
+        echo"$str";?>
+    </body>
+</html>
